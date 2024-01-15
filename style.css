@@ -39,6 +39,14 @@ main {
 
 .blog-card {
   max-width: 350px;
+  box-shadow: 5px 5px var(--color-black);
+  transition: box-shadow 0.3s ease;
+}
+
+.blog-card:hover,
+.blog-card:focus {
+  box-shadow: 8px 8px var(--color-black);
+  outline: none;
 }
 
 .blog-card {
