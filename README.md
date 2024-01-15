@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/barla-x88/FM-blog-preview-card)
+- Live Site URL: [Live site URL](https://barla-x88.github.io/FM-blog-preview-card/)
 
 ## My process
 
